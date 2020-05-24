@@ -3,7 +3,7 @@
     display:flex;
     
 }
-.insert-table {
+.header__button {
     position: relative;
     background: #74b9ff;
     border: 1px solid #74b9ff;
@@ -16,7 +16,7 @@
 .fa-plus {
     font-size:20px;
 }
-.inputname {
+.header__input-table {
     
     position: absolute;
     z-index: 99999;

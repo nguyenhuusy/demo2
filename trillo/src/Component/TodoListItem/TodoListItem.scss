@@ -81,7 +81,7 @@
     z-index:999999;
     align-items: center;
     justify-content: center;
-    display: none;
+    display: flex;
     flex-direction: column;
 }
 .main-calendar-edit {
@@ -110,4 +110,7 @@
     border-radius: 10px;
     left: 192px;
     top: 0px;
+}
+.table-edit {
+    display:none;
 }
